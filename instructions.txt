@@ -4,4 +4,3 @@
 * Add salt
 * Mix well
 * Squeeze orange
-squeeze orange
